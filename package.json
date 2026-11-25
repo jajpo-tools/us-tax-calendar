@@ -1,0 +1,13 @@
+{
+  "name": "us-tax-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Subscribable .ics calendar of US federal tax deadlines for freelancers: estimated tax payments, Form 1099-NEC, the return due date.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

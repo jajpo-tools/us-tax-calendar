@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JAJPO//Tax Deadline Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US freelancer tax dates
+X-WR-CALDESC:US federal tax dates for freelancers and the self-employed: es
+ timated tax payments\, Form 1099-NEC and the return due date. From IRS pub
+ lications. Not tax advice. https://github.com/jajpo-tools/us-tax-calendar
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:estimated-2026-q1@jajpo.com
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:First estimated tax payment due for 2026
+DESCRIPTION:Federal estimated tax for income earned January 1 to March 31\,
+  2026 is due today. Work out the amount with the JAJPO Quarterly Estimated
+  Tax Calculator. https://jajpo.com/taxes/quarterly-tax-calculator/ General
+  information\, not tax advice. Dates can change\, for example after a disa
+ ster declaration\; check IRS.gov.
+URL:https://jajpo.com/taxes/quarterly-tax-calculator/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:First estimated tax payment due for 2026
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:estimated-2026-q2@jajpo.com
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Second estimated tax payment due for 2026
+DESCRIPTION:Federal estimated tax for income earned April 1 to May 31\, 202
+ 6 is due today. Work out the amount with the JAJPO Quarterly Estimated Tax
+  Calculator. https://jajpo.com/taxes/quarterly-tax-calculator/ General inf
+ ormation\, not tax advice. Dates can change\, for example after a disaster
+  declaration\; check IRS.gov.
+URL:https://jajpo.com/taxes/quarterly-tax-calculator/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Second estimated tax payment due for 2026
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:estimated-2026-q3@jajpo.com
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Third estimated tax payment due for 2026
+DESCRIPTION:Federal estimated tax for income earned June 1 to August 31\, 2
+ 026 is due today. Work out the amount with the JAJPO Quarterly Estimated T
+ ax Calculator. https://jajpo.com/taxes/quarterly-tax-calculator/ General i
+ nformation\, not tax advice. Dates can change\, for example after a disast
+ er declaration\; check IRS.gov.
+URL:https://jajpo.com/taxes/quarterly-tax-calculator/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Third estimated tax payment due for 2026
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:estimated-2026-q4@jajpo.com
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Fourth estimated tax payment due for 2026
+DESCRIPTION:Federal estimated tax for income earned September 1 to December
+  31\, 2026 is due today. Work out the amount with the JAJPO Quarterly Esti
+ mated Tax Calculator. https://jajpo.com/taxes/quarterly-tax-calculator/ Ge
+ neral information\, not tax advice. Dates can change\, for example after a
+  disaster declaration\; check IRS.gov.
+URL:https://jajpo.com/taxes/quarterly-tax-calculator/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fourth estimated tax payment due for 2026
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:form-1099-nec-2026@jajpo.com
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Forms 1099-NEC due for payments made in 2026
+DESCRIPTION:Send Form 1099-NEC to each contractor you paid $2\,000 or more 
+ for services in 2026 in the course of your business\, and file it with the
+  IRS. Check who needs one with the JAJPO 1099-NEC Checker. https://jajpo.c
+ om/taxes/1099-nec-checker/ General information\, not tax advice. Dates can
+  change\, for example after a disaster declaration\; check IRS.gov.
+URL:https://jajpo.com/taxes/1099-nec-checker/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Forms 1099-NEC due for payments made in 2026
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-exception-2026@jajpo.com
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Last day to file and pay in full and skip the January 2026 estimate
+ d payment
+DESCRIPTION:If you file your 2026 return and pay all the tax you owe by tod
+ ay\, you do not have to make the January estimated payment for 2026. See t
+ he JAJPO guide to quarterly estimated taxes. https://jajpo.com/taxes/quart
+ erly-estimated-taxes/ General information\, not tax advice. Dates can chan
+ ge\, for example after a disaster declaration\; check IRS.gov.
+URL:https://jajpo.com/taxes/quarterly-estimated-taxes/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Last day to file and pay in full and skip the January 2026 esti
+ mated payment
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:return-2026@jajpo.com
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:2026 federal tax return and payment due
+DESCRIPTION:Your 2026 Form 1040 is due today\, with any tax still owed. An 
+ extension gives more time to file\, not more time to pay. Estimate what yo
+ u owe with the JAJPO 1099 Tax Calculator. https://jajpo.com/taxes/1099-tax
+ -calculator/ General information\, not tax advice. Dates can change\, for 
+ example after a disaster declaration\; check IRS.gov.
+URL:https://jajpo.com/taxes/1099-tax-calculator/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 federal tax return and payment due
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,50 @@
+{
+  "years": [
+    2026
+  ],
+  "lastVerified": "2026-11-05",
+  "events": [
+    {
+      "date": "2026-04-15",
+      "title": "First estimated tax payment due for 2026",
+      "description": "Federal estimated tax for income earned January 1 to March 31, 2026 is due today. Work out the amount with the JAJPO Quarterly Estimated Tax Calculator.",
+      "url": "https://jajpo.com/taxes/quarterly-tax-calculator/"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "Second estimated tax payment due for 2026",
+      "description": "Federal estimated tax for income earned April 1 to May 31, 2026 is due today. Work out the amount with the JAJPO Quarterly Estimated Tax Calculator.",
+      "url": "https://jajpo.com/taxes/quarterly-tax-calculator/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Third estimated tax payment due for 2026",
+      "description": "Federal estimated tax for income earned June 1 to August 31, 2026 is due today. Work out the amount with the JAJPO Quarterly Estimated Tax Calculator.",
+      "url": "https://jajpo.com/taxes/quarterly-tax-calculator/"
+    },
+    {
+      "date": "2027-01-15",
+      "title": "Fourth estimated tax payment due for 2026",
+      "description": "Federal estimated tax for income earned September 1 to December 31, 2026 is due today. Work out the amount with the JAJPO Quarterly Estimated Tax Calculator.",
+      "url": "https://jajpo.com/taxes/quarterly-tax-calculator/"
+    },
+    {
+      "date": "2027-02-01",
+      "title": "Forms 1099-NEC due for payments made in 2026",
+      "description": "Send Form 1099-NEC to each contractor you paid $2,000 or more for services in 2026 in the course of your business, and file it with the IRS. Check who needs one with the JAJPO 1099-NEC Checker.",
+      "url": "https://jajpo.com/taxes/1099-nec-checker/"
+    },
+    {
+      "date": "2027-02-01",
+      "title": "Last day to file and pay in full and skip the January 2026 estimated payment",
+      "description": "If you file your 2026 return and pay all the tax you owe by today, you do not have to make the January estimated payment for 2026. See the JAJPO guide to quarterly estimated taxes.",
+      "url": "https://jajpo.com/taxes/quarterly-estimated-taxes/"
+    },
+    {
+      "date": "2027-04-15",
+      "title": "2026 federal tax return and payment due",
+      "description": "Your 2026 Form 1040 is due today, with any tax still owed. An extension gives more time to file, not more time to pay. Estimate what you owe with the JAJPO 1099 Tax Calculator.",
+      "url": "https://jajpo.com/taxes/1099-tax-calculator/"
+    }
+  ]
+}
